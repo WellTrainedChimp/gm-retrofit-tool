@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd gm-retrofit-tool && npm install && npm run build",
+  "outputDirectory": "gm-retrofit-tool/dist",
+  "framework": "vite"
+}
